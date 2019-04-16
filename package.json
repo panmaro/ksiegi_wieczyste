@@ -1,0 +1,26 @@
+{
+  "name": "ksiegi_wieczyste",
+  "version": "1.0.0",
+  "description": "Contains helper functions for working with polish land registration books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panmaro/ksiegi_wieczyste.git"
+  },
+  "keywords": [
+    "kw",
+    "księga",
+    "wieczysta",
+    "księgi",
+    "wieczyste"
+  ],
+  "author": "maro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panmaro/ksiegi_wieczyste/issues"
+  },
+  "homepage": "https://github.com/panmaro/ksiegi_wieczyste#readme"
+}
