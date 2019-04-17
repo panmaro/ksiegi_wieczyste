@@ -402,5 +402,3 @@ exports.isValid = isValid;
 exports.validate = validate;
 exports.kw = getKW;
 
-console.log(getKW("LU1B/00012345/3"))
-
