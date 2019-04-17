@@ -1,4 +1,7 @@
-# ksiegi_wieczyste
+Księgi wieczyste
+=======
+
+Contains helper functions for working with polish land registration books.
 
 Usage:
 
